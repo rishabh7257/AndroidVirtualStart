@@ -4,5 +4,5 @@
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Yay! You are correct</string>
-    <string name="wrond_toast">Opsy! Wrong Answer</string>
+    <string name="wrond_toast">Opsy !! Wrong Answer</string>
 </resources>
